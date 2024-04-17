@@ -1,0 +1,96 @@
+2024-04-11 14:24:24,566 - app - INFO - Request: GET /image_processing/
+2024-04-11 14:24:24,566 - app - INFO - Response: 404
+2024-04-11 14:24:24,582 - app - INFO - Request: GET /image_processing/favicon.ico
+2024-04-11 14:24:24,583 - app - INFO - Response: 404
+2024-04-11 14:24:53,145 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 14:24:53,145 - app - INFO - Response: 200
+2024-04-11 14:24:53,385 - app - INFO - Request: GET /image_processing/image_processing/openapi.json
+2024-04-11 14:24:53,390 - app - INFO - Response: 200
+2024-04-11 14:26:03,139 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:26:03,140 - app - INFO - Response: 403
+2024-04-11 14:27:52,851 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:27:52,853 - app - INFO - Response: 401
+2024-04-11 14:28:29,290 - app - INFO - Request: GET /image_processing/
+2024-04-11 14:28:29,290 - app - INFO - Response: 404
+2024-04-11 14:28:32,575 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:28:32,579 - app - INFO - Response: 401
+2024-04-11 14:28:52,242 - app - INFO - Request: POST /image_processing/image_processing/get-jwt-token/
+2024-04-11 14:28:52,243 - app - INFO - Response: 400
+2024-04-11 14:29:16,998 - app - INFO - Request: POST /image_processing/image_processing/get-jwt-token/
+2024-04-11 14:29:16,999 - app - INFO - Response: 200
+2024-04-11 14:29:31,241 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:29:31,262 - app - INFO - Response: 500
+2024-04-11 14:30:00,689 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:30:00,695 - app - INFO - Response: 500
+2024-04-11 14:30:17,034 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:30:17,039 - app - INFO - Response: 500
+2024-04-11 14:31:24,298 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:31:24,304 - app - INFO - Response: 500
+2024-04-11 14:31:47,890 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:31:54,551 - app - INFO - Response: 500
+2024-04-11 14:32:16,110 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:32:22,540 - app - INFO - Response: 500
+2024-04-11 14:33:45,778 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:33:52,237 - root - INFO - MRP Processing response resulted with {'currency': 'Rs', 'mrp': 25} and status 200
+2024-04-11 14:33:52,243 - app - INFO - Response: 500
+2024-04-11 14:35:05,605 - app - INFO - Request: GET /image_processing/
+2024-04-11 14:35:05,607 - app - INFO - Response: 404
+2024-04-11 14:35:05,624 - app - INFO - Request: GET /image_processing/favicon.ico
+2024-04-11 14:35:05,624 - app - INFO - Response: 404
+2024-04-11 14:35:14,225 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 14:35:14,225 - app - INFO - Response: 200
+2024-04-11 14:35:14,497 - app - INFO - Request: GET /image_processing/image_processing/openapi.json
+2024-04-11 14:35:14,508 - app - INFO - Response: 200
+2024-04-11 14:35:54,302 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:36:15,812 - root - INFO - MRP Processing response resulted with {'currency': 'Rs', 'mrp': 25} and status 200
+2024-04-11 14:38:21,856 - app - INFO - Response: 500
+2024-04-11 14:38:30,830 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 14:38:30,831 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 14:38:30,832 - app - INFO - Response: 200
+2024-04-11 14:38:30,833 - app - INFO - Response: 200
+2024-04-11 14:38:30,996 - app - INFO - Request: GET /image_processing/image_processing/openapi.json
+2024-04-11 14:38:31,008 - app - INFO - Response: 200
+2024-04-11 14:39:15,816 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:39:27,193 - root - INFO - MRP Processing response resulted with {'currency': 'Rs', 'mrp': 25} and status 200
+2024-04-11 14:41:09,505 - app - INFO - Response: 500
+2024-04-11 14:41:26,742 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:41:35,313 - root - INFO - MRP Processing response resulted with {'currency': 'Rs', 'mrp': 25} and status 200
+2024-04-11 14:41:35,337 - app - INFO - Response: 200
+2024-04-11 14:47:12,682 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:47:12,689 - app - INFO - Response: 200
+2024-04-11 14:49:32,159 - app - INFO - Request: POST /image_processing/image_processing/image_analysis
+2024-04-11 14:49:32,163 - app - INFO - Response: 200
+2024-04-11 14:50:44,662 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 14:50:44,664 - app - INFO - Response: 200
+2024-04-11 14:50:44,794 - app - INFO - Request: GET /image_processing/image_processing/openapi.json
+2024-04-11 14:50:44,799 - app - INFO - Response: 200
+2024-04-11 14:52:17,924 - app - INFO - Request: GET /image_processing/image_processing/image_analysis_v2
+2024-04-11 14:52:17,924 - app - INFO - Response: 405
+2024-04-11 14:52:17,944 - app - INFO - Request: GET /image_processing/favicon.ico
+2024-04-11 14:52:17,945 - app - INFO - Response: 404
+2024-04-11 14:52:38,063 - app - INFO - Request: GET /image_processing/image_processing/image_analysis_v2/docs
+2024-04-11 14:52:38,064 - app - INFO - Response: 404
+2024-04-11 14:54:57,664 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 14:54:57,665 - app - INFO - Response: 200
+2024-04-11 14:54:57,742 - app - INFO - Request: GET /image_processing/image_processing/openapi.json
+2024-04-11 14:54:57,747 - app - INFO - Response: 200
+2024-04-11 14:56:05,436 - app - INFO - Request: POST /image_processing/image_processing/image_analysis_v2
+2024-04-11 14:56:05,438 - app - INFO - Response: 403
+2024-04-11 14:58:26,960 - app - INFO - Request: POST /image_processing/image_processing/get-jwt-token/
+2024-04-11 14:58:26,960 - app - INFO - Response: 200
+2024-04-11 14:58:55,313 - app - INFO - Request: POST /image_processing/image_processing/image_analysis_v2
+2024-04-11 14:58:55,314 - root - INFO - Payload: clientID='string' checkType='mrp' image_url='https://kapml.surge.sh/images/mrp/mrp_2.jpeg'
+2024-04-11 14:59:02,643 - root - INFO - MRP Processing response resulted with {'currency': 'Rs', 'mrp': 250.0} and status 200
+2024-04-11 14:59:02,650 - app - INFO - Response: 200
+2024-04-11 15:02:22,288 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 15:02:22,289 - app - INFO - Response: 200
+2024-04-11 15:02:40,667 - app - INFO - Request: POST /image_processing/image_processing/docs
+2024-04-11 15:02:40,667 - app - INFO - Response: 405
+2024-04-11 15:03:49,662 - app - INFO - Request: POST /image_processing/image_processing/docs
+2024-04-11 15:03:49,662 - app - INFO - Response: 405
+2024-04-11 15:03:56,000 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 15:03:56,000 - app - INFO - Response: 200
+2024-04-11 15:04:07,798 - app - INFO - Request: POST /image_processing/image_processing/docs
+2024-04-11 15:04:07,798 - app - INFO - Response: 405
+2024-04-11 15:04:22,632 - app - INFO - Request: GET /image_processing/image_processing/docs
+2024-04-11 15:04:22,632 - app - INFO - Response: 200
